@@ -12,6 +12,12 @@ This project predicts whether a customer will default on a loan using Machine Le
 - Matplotlib
 - Scikit-learn
 - Streamlit
+- ## ✨ Features
+
+- Predict loan default risk
+- Interactive Streamlit interface
+- Machine Learning classification model
+- Real-time prediction
 
 ## 📂 Project Structure
 
@@ -24,4 +30,5 @@ This project predicts whether a customer will default on a loan using Machine Le
 
 ## 🚧 Status
 
-Project Setup Completed ✅
+In Development 🚀
+Project Successfully Deployed ✅
