@@ -29,6 +29,4 @@ This project predicts whether a customer will default on a loan using Machine Le
 - reports/
 
 ## 🚧 Status
-
-In Development 🚀
 Project Successfully Deployed ✅
